@@ -1,30 +1,25 @@
+from math import pi
+
 # Function to calculate the area of a rectangle
 def calculate_rectangle_area(length, width):
-    """Returns the area of a rectangle."""
-    pass  # Replace with actual implementation
+    return str(length * width) + " units\u00b2"
 
 # Function to calculate the area of a circle
 def calculate_circle_area(radius):
-    """Returns the area of a circle."""
-    pass  # Replace with actual implementation
+    return str(radius ** 2) + "π" + " units\u00b2"
 
 # Function to calculate the area of a triangle
 def calculate_triangle_area(base, height):
-    """Returns the area of a triangle."""
-    pass  # Replace with actual implementation
+    return str(base * height / 2) + " units\u00b2"
 
-# TODO: Implement these volume functions
 def calculate_cube_volume(side):
-    """Returns the volume of a cube."""
-    pass  # Replace with actual implementation
+    return str(side ** 3) + " units\u00b3"
 
 def calculate_cylinder_volume(radius, height):
-    """Returns the volume of a cylinder."""
-    pass  # Replace with actual implementation
+    return str(height * (radius ** 2)) + "π" + " units\u00b3"
 
 def calculate_sphere_volume(radius):
-    """Returns the volume of a sphere."""
-    pass  # Replace with actual implementation
+    return str(4 * (radius ** 3) / 3) + "π" + " units\u00b3"
 
 # Menu function to allow user selection
 def menu():
@@ -62,4 +57,4 @@ elif choice == 6:
     radius = float(input("Enter radius: "))
     print("Volume:", calculate_sphere_volume(radius))
 else:
-    print("Invalid choice!")1
+    print("Invalid choice!")
