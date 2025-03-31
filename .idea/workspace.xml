@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88308122-8eaa-4a32-b2cc-956e2934ba4e" name="Changes" comment="Added Labs 120.3A-C">
-      <change afterPath="$PROJECT_DIR$/Lab 120.2 - Structure charts to functions/lab01 structure chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/11-SWE-Practical-Work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/11-SWE-Practical-Work.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="88308122-8eaa-4a32-b2cc-956e2934ba4e" name="Changes" comment="Finished Labs 120.3A">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 120.2 - Structure charts to functions/lab01_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 120.2 - Structure charts to functions/lab01_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 120.3A - Pseudocode to Python/lab_1203A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 120.3A - Pseudocode to Python/lab_1203A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python/lab_1203B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python/lab_1203B.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +52,7 @@
     "Python.1203A_solution.executor": "Run",
     "Python.lab01_functions.executor": "Run",
     "Python.lab_1203A.executor": "Run",
+    "Python.lab_1203B.executor": "Run",
     "Python.scratch.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -133,7 +130,9 @@
       <workItem from="1742960398446" duration="13000" />
       <workItem from="1742960415209" duration="350000" />
       <workItem from="1742963211105" duration="77000" />
-      <workItem from="1743112590948" duration="1948000" />
+      <workItem from="1743112590948" duration="4368000" />
+      <workItem from="1743393241851" duration="78000" />
+      <workItem from="1743393542298" duration="1115000" />
     </task>
     <task id="LOCAL-00001" summary="Added Lab 1">
       <option name="closed" value="true" />
@@ -183,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742959153226</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Finished Labs 120.3A">
+      <option name="closed" value="true" />
+      <created>1743114616461</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114616461</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,12 +210,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Lab 1" />
     <MESSAGE value="Added Labs 120.3A-C" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Labs 120.3A-C" />
+    <MESSAGE value="Finished Labs 120.3A" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Labs 120.3A" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab01_functions.coverage" NAME="lab01_functions Coverage Results" MODIFIED="1743112783772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.2 - Structure charts to functions" />
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work$lab01_functions.coverage" NAME="lab01_functions Coverage Results" MODIFIED="1742179499768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 1 - Structure charts to functions" />
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work$1203A_solution.coverage" NAME="1203A_solution Coverage Results" MODIFIED="1742957834220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab_1203B.coverage" NAME="lab_1203B Coverage Results" MODIFIED="1743394642429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python" />
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1742955116712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab_1203A.coverage" NAME="lab_1203A Coverage Results" MODIFIED="1743113875170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.3A - Pseudocode to Python" />
   </component>
