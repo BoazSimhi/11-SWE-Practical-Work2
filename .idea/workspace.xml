@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88308122-8eaa-4a32-b2cc-956e2934ba4e" name="Changes" comment="Finished Labs 120.3A">
+    <list default="true" id="88308122-8eaa-4a32-b2cc-956e2934ba4e" name="Changes" comment="Almost done lab_1203B, just one issue left (hopefully)">
+      <change afterPath="$PROJECT_DIR$/Lab 120.3C - Pseudocode to flowcharts/1203C Flowchart Screenshot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python/lab_1203B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python/lab_1203B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 120.3C - Pseudocode to flowcharts/lab_1203C.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 120.3C - Pseudocode to flowcharts/lab_1203C.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -49,10 +54,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Notification.DisplayName-DoNotAsk-Execution": "External process execution failed",
+    "Notification.DoNotAsk-Execution": "true",
     "Python.1203A_solution.executor": "Run",
     "Python.lab01_functions.executor": "Run",
     "Python.lab_1203A.executor": "Run",
     "Python.lab_1203B.executor": "Run",
+    "Python.lab_1203C.executor": "Run",
     "Python.scratch.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -73,6 +81,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab 120.3C - Pseudocode to flowcharts" />
       <recent name="$PROJECT_DIR$/Lab 120.2 - Structure charts to functions" />
       <recent name="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python" />
     </key>
@@ -132,7 +141,11 @@
       <workItem from="1742963211105" duration="77000" />
       <workItem from="1743112590948" duration="4368000" />
       <workItem from="1743393241851" duration="78000" />
-      <workItem from="1743393542298" duration="1115000" />
+      <workItem from="1743393542298" duration="1887000" />
+      <workItem from="1743407935889" duration="238000" />
+      <workItem from="1743408396301" duration="5000" />
+      <workItem from="1743563713295" duration="4040000" />
+      <workItem from="1743717506637" duration="1690000" />
     </task>
     <task id="LOCAL-00001" summary="Added Lab 1">
       <option name="closed" value="true" />
@@ -190,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743114616461</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Almost done lab_1203B, just one issue left (hopefully)">
+      <option name="closed" value="true" />
+      <created>1743394814580</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743394814580</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,14 +232,16 @@
     <MESSAGE value="Added Lab 1" />
     <MESSAGE value="Added Labs 120.3A-C" />
     <MESSAGE value="Finished Labs 120.3A" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Labs 120.3A" />
+    <MESSAGE value="Almost done lab_1203B, just one issue left (hopefully)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost done lab_1203B, just one issue left (hopefully)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab01_functions.coverage" NAME="lab01_functions Coverage Results" MODIFIED="1743112783772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.2 - Structure charts to functions" />
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work$lab01_functions.coverage" NAME="lab01_functions Coverage Results" MODIFIED="1742179499768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 1 - Structure charts to functions" />
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work$1203A_solution.coverage" NAME="1203A_solution Coverage Results" MODIFIED="1742957834220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
-    <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab_1203B.coverage" NAME="lab_1203B Coverage Results" MODIFIED="1743394642429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python" />
+    <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab_1203B.coverage" NAME="lab_1203B Coverage Results" MODIFIED="1743565904058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python" />
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1742955116712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab_1203A.coverage" NAME="lab_1203A Coverage Results" MODIFIED="1743113875170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.3A - Pseudocode to Python" />
+    <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab_1203C.coverage" NAME="lab_1203C Coverage Results" MODIFIED="1743719197497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.3C - Pseudocode to flowcharts" />
   </component>
 </project>
