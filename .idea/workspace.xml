@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88308122-8eaa-4a32-b2cc-956e2934ba4e" name="Changes" comment="Almost done lab_1203B, just one issue left (hopefully)">
-      <change afterPath="$PROJECT_DIR$/Lab 120.3C - Pseudocode to flowcharts/1203C Flowchart Screenshot.png" afterDir="false" />
+    <list default="true" id="88308122-8eaa-4a32-b2cc-956e2934ba4e" name="Changes" comment="Almost done lab_1203C">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python/lab_1203B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python/lab_1203B.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab 120.3C - Pseudocode to flowcharts/lab_1203C.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 120.3C - Pseudocode to flowcharts/lab_1203C.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,34 +49,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Notification.DisplayName-DoNotAsk-Execution": "External process execution failed",
-    "Notification.DoNotAsk-Execution": "true",
-    "Python.1203A_solution.executor": "Run",
-    "Python.lab01_functions.executor": "Run",
-    "Python.lab_1203A.executor": "Run",
-    "Python.lab_1203B.executor": "Run",
-    "Python.lab_1203C.executor": "Run",
-    "Python.scratch.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Execution&quot;: &quot;External process execution failed&quot;,
+    &quot;Notification.DoNotAsk-Execution&quot;: &quot;true&quot;,
+    &quot;Python.1203A_solution.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab01_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_1203A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_1203B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_1203C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Lab 120.3C - Pseudocode to flowcharts" />
@@ -145,7 +143,8 @@
       <workItem from="1743407935889" duration="238000" />
       <workItem from="1743408396301" duration="5000" />
       <workItem from="1743563713295" duration="4040000" />
-      <workItem from="1743717506637" duration="1690000" />
+      <workItem from="1743717506637" duration="1988000" />
+      <workItem from="1743990984221" duration="399000" />
     </task>
     <task id="LOCAL-00001" summary="Added Lab 1">
       <option name="closed" value="true" />
@@ -211,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743394814580</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Almost done lab_1203C">
+      <option name="closed" value="true" />
+      <created>1743719484400</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743719484400</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +240,8 @@
     <MESSAGE value="Added Labs 120.3A-C" />
     <MESSAGE value="Finished Labs 120.3A" />
     <MESSAGE value="Almost done lab_1203B, just one issue left (hopefully)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Almost done lab_1203B, just one issue left (hopefully)" />
+    <MESSAGE value="Almost done lab_1203C" />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost done lab_1203C" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab01_functions.coverage" NAME="lab01_functions Coverage Results" MODIFIED="1743112783772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.2 - Structure charts to functions" />
@@ -242,6 +250,6 @@
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab_1203B.coverage" NAME="lab_1203B Coverage Results" MODIFIED="1743565904058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python" />
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1742955116712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab_1203A.coverage" NAME="lab_1203A Coverage Results" MODIFIED="1743113875170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.3A - Pseudocode to Python" />
-    <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab_1203C.coverage" NAME="lab_1203C Coverage Results" MODIFIED="1743719197497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.3C - Pseudocode to flowcharts" />
+    <SUITE FILE_PATH="coverage/11_SWE_Practical_Work2$lab_1203C.coverage" NAME="lab_1203C Coverage Results" MODIFIED="1743991403823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 120.3C - Pseudocode to flowcharts" />
   </component>
 </project>
